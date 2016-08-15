@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Weather.h"
+#import "WeatherServices.h"
+#import "NetworkOprator.h"
 
 @interface ViewController : UIViewController
 
